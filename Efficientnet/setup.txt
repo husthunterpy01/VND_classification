@@ -1,0 +1,7 @@
+opencv-python
+opencv-python-headless
+keras
+tensorflow = "2.9.1"
+sklearn
+matplotlib
+pillow
